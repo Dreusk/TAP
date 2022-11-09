@@ -2,4 +2,4 @@
 
 Небольшое приложение для исследования работы ключевых слов async/await.
 
-[Презентация](https://docs.google.com/presentation/d/1ml9iLu5Ioq0mVQDP8KUyGOI_r6ecOEACZr8q7K_aG0U/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/e/2PACX-1vTvujPOSoYAPqjcva2VoQwKbn-84FQQfbtEmtT0-NpzZ-eBbNeoOXEgNQoRGiv3iwoGE-ay2DzygzzF/pub?start=true&loop=false&delayms=10000)
