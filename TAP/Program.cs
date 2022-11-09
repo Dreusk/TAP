@@ -86,7 +86,7 @@ namespace TAP
                 //TestWait();
                 //TestAwaitMultiple();
                 //TestAwaitMultiple2();
-                TestRun();
+                //TestRun();
             }
             Console.WriteLine("Работа основного потока завершена...");
             Console.ReadKey();
